@@ -36,6 +36,7 @@ Prometheus – Scrapes Kubernetes and application metrics.
 Grafana – Visualizes Prometheus metrics.
 
 **Security**
-IAM - For RBAC
-AWS Cloudtrail - For auditing
+
+- IAM - For RBAC
+- AWS Cloudtrail - For auditing
 
