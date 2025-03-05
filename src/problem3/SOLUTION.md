@@ -1,4 +1,4 @@
-**Posible issue 1: Incorrect NGINX settings causing high memory usage.**
+**Possible issue 1: Incorrect NGINX settings causing high memory usage.**
 
 **Steps to Troubleshoot**
 
